@@ -9,6 +9,11 @@
 #include <string.h>  
   
 #define MAX_LINE 1024  
+
+//第一步，正常输出
+//第二步，随机输出
+//第三步，正常倒序
+//第四步，随机倒序
   
 int main()  
 {  
